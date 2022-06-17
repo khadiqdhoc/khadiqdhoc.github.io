@@ -8,8 +8,8 @@ const ketigaContent = document.querySelector('#ketiga-content')
 pertama.addEventListener('click', () => {
   const aboutBox = new WinBox({
     title: 'Website Pertama',
-    width: '400px',
-    height: '400px',
+    width: '350px',
+    height: '404px',
     top: 50,
     right: 50,
     bottom: 50,
@@ -27,8 +27,8 @@ pertama.addEventListener('click', () => {
 kedua.addEventListener('click', () => {
   const contactBox = new WinBox({
     title: 'Website Kedua',
-    width: '400px',
-    height: '400px',
+    width: '350px',
+    height: '404px',
     top: 90,
     right: 50,
     bottom: 50,
@@ -46,8 +46,8 @@ kedua.addEventListener('click', () => {
 ketiga.addEventListener('click', () => {
   const contactBox = new WinBox({
     title: 'Website ketiga',
-    width: '400px',
-    height: '400px',
+    width: '350px',
+    height: '404px',
     top: 130,
     right: 50,
     bottom: 50,
